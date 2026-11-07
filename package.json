@@ -1,0 +1,10 @@
+{
+  "name": "pomo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline-first focus timer whose breaks run a short guided neck, shoulder and eye move.",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "node --test test/*.test.js"
+  }
+}
